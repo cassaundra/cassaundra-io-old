@@ -1,0 +1,28 @@
+.container {
+	margin: 2em;
+	background-color: #212529;
+	color: #fff;
+	padding: 2em;
+	border-radius: 4px;
+	width: inherit;
+	max-width: 100% !important;
+}
+
+.crypto-footer {
+	font-size: 11px!important;
+	color: #8c8c8c;
+	line-height: 1em;
+	text-align: center;
+	word-wrap: break-word;
+	margin-left: 32px;
+	margin-right: 32px;
+}
+
+.crypto-footer p {
+	margin-bottom: .5em;
+}
+
+.crypto-footer code {
+	font-size: 10px !important;
+	color: #8c8c8c;
+}
