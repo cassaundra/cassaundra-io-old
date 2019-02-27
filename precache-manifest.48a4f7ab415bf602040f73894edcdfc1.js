@@ -4,15 +4,15 @@ self.__precacheManifest = [
     "url": "/cassaundra-io/static/js/runtime~main.59945bae.js"
   },
   {
-    "revision": "31f4ed17f4f62414d4b2",
-    "url": "/cassaundra-io/static/js/main.31f4ed17.chunk.js"
+    "revision": "f1239a0c6b20d856c584",
+    "url": "/cassaundra-io/static/js/main.f1239a0c.chunk.js"
   },
   {
     "revision": "8b8ad942310224a16029",
     "url": "/cassaundra-io/static/js/2.8b8ad942.chunk.js"
   },
   {
-    "revision": "31f4ed17f4f62414d4b2",
+    "revision": "f1239a0c6b20d856c584",
     "url": "/cassaundra-io/static/css/main.9c50ddcd.chunk.css"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/cassaundra-io/static/css/2.01551523.chunk.css"
   },
   {
-    "revision": "ac8402f2358a4d8dfb525928874a9013",
+    "revision": "27ef47e52a9cc599c7f496c0ac39cc0c",
     "url": "/cassaundra-io/index.html"
   }
 ];
