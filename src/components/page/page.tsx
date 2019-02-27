@@ -16,6 +16,7 @@ class Page extends Component {
 								<NavDropdown.Header>Early Development</NavDropdown.Header>
 								<NavDropdown.Item href="https://github.com/cassaundra/ntx">NTX</NavDropdown.Item>
 								<NavDropdown.Item href="https://github.com/cassaundra/texnical">TeXnical</NavDropdown.Item>
+								<NavDropdown.Item href="https://github.com/cassaundra/82000">82000</NavDropdown.Item>
 								<NavDropdown.Item href="https://github.com/liberejo/liberejo">Liberejo</NavDropdown.Item>
                         </NavDropdown>
                     </Nav>
