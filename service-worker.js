@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/cassaundra-io/precache-manifest.c2fec03b0750675fdcbdefa840fbe567.js"
+  "/cassaundra-io/precache-manifest.ae66fb50ad05cdfd2e956f572f05b117.js"
 );
 
 workbox.clientsClaim();
