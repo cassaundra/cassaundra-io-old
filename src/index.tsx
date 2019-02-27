@@ -4,7 +4,6 @@ import './index.css';
 import * as serviceWorker from './serviceWorker';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 
-
 import 'bootstrap/dist/css/bootstrap.min.css'
 
 // highlight.js theme
@@ -17,11 +16,11 @@ import About from './components/about/about';
 import NotFound from './components/notfound/notfound';
 
 ReactDOM.render(
-	<BrowserRouter>
+	<BrowserRouter basename={process.env.PUBLIC_URL}>
 		<div>
 			<Switch>
 				<Route exact path="/" component={Home} />
-				<Route exact path="/about" component={About} />
+				<Route exact path="/abt" component={About} />
 				<Route component={NotFound} />
 			</Switch>
 		</div>
