@@ -9,7 +9,7 @@
 }
 
 .crypto-footer {
-	font-size: 11px!important;
+	font-size: 11px;
 	color: #8c8c8c;
 	line-height: 1em;
 	text-align: center;
@@ -24,5 +24,15 @@
 
 .crypto-footer code {
 	font-size: 10px !important;
+	color: #8c8c8c;
+}
+
+.source-footer {
+	text-align: center;
+	font-size: 11px;
+	margin-top: 1em;
+}
+
+.source-footer a {
 	color: #8c8c8c;
 }
