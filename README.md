@@ -6,4 +6,4 @@ This repository contains the source code for my site, which can be viewed live [
 
 ## TODO
 
-- Use Markdown for site content
+- Generate site content from Markdown using [react-markdown](https://github.com/rexxars/react-markdown)
