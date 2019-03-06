@@ -1,4 +1,4 @@
-![Travis](https://img.shields.io/travis/com/cassaundra/cassaundra-io.svg)
+[![Build Status](https://travis-ci.com/cassaundra/cassaundra-io.svg?branch=master)](https://travis-ci.com/cassaundra/cassaundra-io)
 
 # cassaundra.io
 
