@@ -14,11 +14,11 @@ class Page extends Component {
                         	<NavDropdown.Item href="https://github.com/cassaundra/rocket">Rocket</NavDropdown.Item>
 							<NavDropdown.Divider/>
 							<NavDropdown.Header>Early Development</NavDropdown.Header>
-							<NavDropdown.Item href="https://github.com/cassaundra/ntx">NTX</NavDropdown.Item>
 							<NavDropdown.Item href="https://github.com/cassaundra/82000">82000</NavDropdown.Item>
 							<NavDropdown.Item href="https://github.com/liberejo/liberejo">Liberejo</NavDropdown.Item>
-			                <NavDropdown.Item href="https://github.com/cassaundra/wiki-rs">wiki-rs</NavDropdown.Item>
+							<NavDropdown.Item href="https://github.com/cassaundra/col">col</NavDropdown.Item>
                         </NavDropdown>
+						<Nav.Link href="https://blog.cassaundra.io">Blog</Nav.Link>
                     </Nav>
                 </Navbar>
                 <Container>
