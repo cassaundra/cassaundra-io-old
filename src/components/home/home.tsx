@@ -14,7 +14,6 @@ class Home extends Component {
 				<ul>
 					<li><a href="https://github.com/cassaundra">GitHub</a></li>
 					<li><a href="https://blog.cassaundra.io">Blog</a></li>
-					<li><a href="https://medium.com/@cassaundra">Medium</a></li>
 				</ul>
 			</Page>
 		);
