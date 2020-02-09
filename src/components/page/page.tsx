@@ -27,7 +27,7 @@ class Page extends Component {
 					<p>XMR: <code>8AXRLjdDLuaW6RK4fU9NvRgPQh6Ri2qT3ZkHXPrptrFzfmLZw75kra1VLEWwzEt4jYBUEHA5bG7k3GU4a1XbMJNPN9ExY3q</code></p>
 				</div>
 				<div className="source-footer">
-					<p><a href="https://github.com/cassaundra/cassaundra-io" target="_blank">View source on GitHub</a></p>
+					<p><a href="https://github.com/cassaundra/cassaundra-io" target="_blank" rel="noopener noreferrer">View source on GitHub</a></p>
 				</div>
 			</div>
 		);

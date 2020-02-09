@@ -1,0 +1,26 @@
+.email {
+	animation: fade-in 0.5s;
+}
+
+@keyframes fade-in {
+	from {
+		opacity: 0;
+	}
+	to {
+		opacity: 1;
+	}
+}
+
+.email:hover {
+	color: rgb(0, 123, 255);
+}
+
+.hidden_email {
+	color: rgb(180, 180, 180);
+}
+
+.hidden_email:hover {
+	text-decoration: underline;
+	cursor: pointer;
+	color: rgb(210, 210, 210);
+}
