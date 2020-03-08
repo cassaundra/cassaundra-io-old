@@ -27,7 +27,7 @@ class Home extends Component<object, HomeState> {
 		if (this.state.email) {
 			return <a href={"mailto:" + this.state.email} className="email">{this.state.email}</a>
 		} else {
-			return <span onClick={this.showState} className="hidden_email">[click to reveal]</span>
+			return <span role="link" onClick={this.showState} className="hidden_email">[click to reveal]</span>
 		}
 	}
 
