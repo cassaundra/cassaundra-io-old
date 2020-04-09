@@ -6,7 +6,7 @@
   "dependencies": {
     "@types/highlight.js": "^9.12.3",
     "@types/jest": "25.2.1",
-    "@types/node": "13.11.0",
+    "@types/node": "13.11.1",
     "@types/react": "16.9.33",
     "@types/react-bootstrap": "^0.32.20",
     "@types/react-dom": "16.9.6",
