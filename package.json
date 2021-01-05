@@ -5,7 +5,7 @@
   "homepage": "https://cassaundra.io/",
   "dependencies": {
     "@types/highlight.js": "^10.1.0",
-    "@types/jest": "26.0.14",
+    "@types/jest": "26.0.19",
     "@types/node": "14.14.20",
     "@types/react": "17.0.0",
     "@types/react-bootstrap": "^1.0.1",
